@@ -8,7 +8,6 @@ I am a Junior frontend developer, started my journey at Cybereason. creating a p
 
 * 🌍  I'm based in Tel Aviv
 * ✉️  You can contact me at [karin.goldin24@gmail.com](mailto:karin.goldin24@gmail.com)
-* 🚀  I'm currently working on [Hedge Fund website](http://karin-goldin.github.io/Rimon-project/)
 * 🧠  I'm learning next.js
 * 🤝  I'm open to collaborating on projects
 
