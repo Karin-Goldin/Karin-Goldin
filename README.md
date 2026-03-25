@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 frontend developer
 -------------------------
 
-I am a Junior frontend developer, started my journey at Cybereason. creating a pleasant user interface always excites me :)
+I am a frontend developer, started my journey at Cybereason. creating a pleasant user interface always excites me :)
 
 * 🌍  I'm based in Tel Aviv
 * ✉️  You can contact me at [karin.goldin24@gmail.com](mailto:karin.goldin24@gmail.com)
